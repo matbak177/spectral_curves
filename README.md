@@ -1,7 +1,7 @@
 # Spectral Curves
 
 ## Summary
-The script creates line graphs for the twelve bands of Sentinel 2 for objects(deciduous forest,coniferous forest,grass,building,stagnant water,flowing water) over a given time period.
+The script creates line graphs for the twelve bands of Sentinel 2 for objects(deciduous forest,coniferous forest,grass,building,stagnant water,flowing water) over a given time period for Biebrza National Park.
 The tool allows you to assess in which period and with the use of which bands the greatest difference in pixel value is
 
 ## How it's working
