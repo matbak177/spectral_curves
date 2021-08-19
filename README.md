@@ -1,4 +1,4 @@
-# spectral_curves
+# Spectral Curves
 
 ## Summary
 The script creates line graphs for the twelve bands of Sentinel 2 for objects(deciduous forest,coniferous forest,grass,building,stagnant water,flowing water) over a given time period.
