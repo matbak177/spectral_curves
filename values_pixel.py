@@ -1,7 +1,7 @@
 import arcpy
 import os
 
-folder=r'C:\Users\mati\Desktop\park\2020-05-14' #change path
+folder=r'C:\Users\mati\Desktop\programs\spectral\2020-05-14' #change path
 arcpy.CheckOutExtension("Spatial")
 mxd=arcpy.mapping.MapDocument("CURRENT")
 
