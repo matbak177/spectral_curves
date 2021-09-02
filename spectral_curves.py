@@ -6,7 +6,7 @@ import os
 %matplotlib inline
 
 #change path
-folder=r'C:\Users\mateusz.bak\Desktop\park'
+folder=r'C:\Users\mateusz.bak\Desktop\programs\spectral'
 daty = [x for x in os.listdir(folder) if x.startswith('2020')] 
 
 #names of variables
