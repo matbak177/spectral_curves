@@ -16,6 +16,3 @@ for lyr in arcpy.mapping.ListLayers(mxd):
 
 	#create extract multivalues to point	
 	arcpy.sa.ExtractMultiValuesToPoints(lyr.name+"_p",in_raster,"NONE")
-
-
-
