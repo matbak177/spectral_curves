@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Analyse-of-City-Bike/.idea/Analyse-of-City-Bike.iml" filepath="$PROJECT_DIR$/../Analyse-of-City-Bike/.idea/Analyse-of-City-Bike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Analyse_of_City_Bike/.idea/Analyse_of_City_Bike.iml" filepath="$PROJECT_DIR$/../Analyse_of_City_Bike/.idea/Analyse_of_City_Bike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bike_Routes_Network_Analyst_to_ArcMap/.idea/Bike_Routes_Network_Analyst_to_ArcMap.iml" filepath="$PROJECT_DIR$/../Bike_Routes_Network_Analyst_to_ArcMap/.idea/Bike_Routes_Network_Analyst_to_ArcMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Linear_Regression/.idea/Linear_Regression.iml" filepath="$PROJECT_DIR$/../Linear_Regression/.idea/Linear_Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automatic_mail/.idea/automatic_mail.iml" filepath="$PROJECT_DIR$/../automatic_mail/.idea/automatic_mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spectral_curves.iml" filepath="$PROJECT_DIR$/.idea/spectral_curves.iml" />
+    </modules>
+  </component>
+</project>

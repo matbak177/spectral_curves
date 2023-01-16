@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Analyse-of-City-Bike" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Analyse_of_City_Bike" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Bike_Routes_Network_Analyst_to_ArcMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Linear_Regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../automatic_mail" vcs="Git" />
+  </component>
+</project>
