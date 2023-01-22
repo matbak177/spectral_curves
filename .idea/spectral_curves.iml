@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="Bike_Routes_Network_Analyst_to_ArcMap" />
     <orderEntry type="module" module-name="Analyse_of_City_Bike" />
     <orderEntry type="module" module-name="automatic_mail" />
+    <orderEntry type="module" module-name="insert_data_to_mysql" />
   </component>
 </module>

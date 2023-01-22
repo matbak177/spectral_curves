@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d02bcfe4-01b3-4908-b0a8-3040d8efc688" name="Changes" comment="mail">
-      <change beforePath="$PROJECT_DIR$/../automatic_mail/class_mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../automatic_mail/class_mail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automatic_mail/class_mail_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../automatic_mail/class_mail_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insert_data_to_mysql/insert_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spectral_curves.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spectral_curves.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +28,7 @@
       </map>
     </option>
     <option name="RECENT_COMMON_BRANCH" value="main" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../automatic_mail" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../insert_data_to_mysql" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674412400619</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="mail">
+      <created>1674416374385</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674416374385</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

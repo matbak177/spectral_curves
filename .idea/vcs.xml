@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/../Bike_Routes_Network_Analyst_to_ArcMap" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Linear_Regression" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../automatic_mail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../insert_data_to_mysql" vcs="Git" />
   </component>
 </project>
